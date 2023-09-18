@@ -1,0 +1,16 @@
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\bin\Debug\net6.0-windows\Trabajo_Integrador.exe
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\bin\Debug\net6.0-windows\Trabajo_Integrador.deps.json
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\bin\Debug\net6.0-windows\Trabajo_Integrador.runtimeconfig.json
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\bin\Debug\net6.0-windows\Trabajo_Integrador.dll
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\bin\Debug\net6.0-windows\Trabajo_Integrador.pdb
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.FrmCalculadora.resources
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.csproj.GenerateResource.cache
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.AssemblyInfoInputs.cache
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.AssemblyInfo.cs
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.csproj.CoreCompileInputs.cache
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.dll
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\refint\Trabajo_Integrador.dll
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.pdb
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\Trabajo_Integrador.genruntimeconfig.cache
+C:\Users\enzoe\Desktop\PracticasProgramacion2\PracticasProgramacion2\Ejercicios\Trabajo_Integrador\Trabajo_Integrador\obj\Debug\net6.0-windows\ref\Trabajo_Integrador.dll
